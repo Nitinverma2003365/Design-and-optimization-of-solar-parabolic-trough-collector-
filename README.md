@@ -1,0 +1,2 @@
+# Design-and-optimization-of-solar-parabolic-trough-collector-
+Design and optimization of a solar parabolic trough collector to improve thermal efficiency and heat transfer performance by analyzing key operating parameters.The project aims to identify suitable design and operating parameters for improving the thermal performance of a solar parabolic trough collector and supporting efficient solarenergy utilize
